@@ -4,7 +4,7 @@
       <rect id="Rectangle_514" data-name="Rectangle 514" width="1137.552" height="739.318" fill="none"/>
     </clipPath>
     <clipPath id="clip-Map_en">
-      <rect width="1138" height="764"/>
+   
     </clipPath>
   </defs>
   <g id="Map_en" data-name="Map en" clip-path="url(#clip-Map_en)">
